@@ -1,0 +1,4 @@
+greeting:
+  default: Robert
+
+foo: Mark
